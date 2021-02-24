@@ -1,4 +1,4 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_working_manager,access.working.manager,model_working,,1,1,1,1
+access_working,access.working,model_working,,1,1,1,1
 access_working_manager,access.working.manager,model_working,group_manager,1,1,1,1
 access_working_officer,access.working.officer,model_working,group_officer,1,1,0,0
